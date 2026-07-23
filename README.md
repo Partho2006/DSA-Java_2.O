@@ -16,12 +16,14 @@
 | [0169-majority-element](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Partho2006/DSA-Java_2.O/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Partho2006/DSA-Java_2.O/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0189-rotate-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Partho2006/DSA-Java_2.O/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -48,4 +50,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Partho2006/DSA-Java_2.O/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
