@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0189-rotate-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Partho2006/DSA-Java_2.O/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Partho2006/DSA-Java_2.O/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Partho2006/DSA-Java_2.O/tree/master/2149-rearrange-array-elements-by-sign) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
