@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0075-sort-colors) |
@@ -79,5 +80,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
