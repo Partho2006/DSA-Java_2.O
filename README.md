@@ -100,4 +100,16 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Partho2006/DSA-Java_2.O/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Partho2006/DSA-Java_2.O/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Partho2006/DSA-Java_2.O/tree/master/1539-kth-missing-positive-number) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Partho2006/DSA-Java_2.O/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Partho2006/DSA-Java_2.O/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Partho2006/DSA-Java_2.O/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
