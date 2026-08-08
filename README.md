@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Partho2006/DSA-Java_2.O/tree/master/1903-largest-odd-number-in-string) |
 ## Array
@@ -63,6 +64,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0229-majority-element-ii) |
@@ -110,6 +112,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0205-isomorphic-strings) |
