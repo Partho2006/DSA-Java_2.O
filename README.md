@@ -25,6 +25,7 @@
 | [0152-maximum-product-subarray](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0229-majority-element-ii) |
@@ -44,6 +45,7 @@
 | [0075-sort-colors](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Partho2006/DSA-Java_2.O/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -104,6 +106,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Partho2006/DSA-Java_2.O/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Partho2006/DSA-Java_2.O/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
