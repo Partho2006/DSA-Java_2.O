@@ -48,6 +48,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0189-rotate-array) |
+| [0876-middle-of-the-linked-list](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Partho2006/DSA-Java_2.O/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -162,4 +163,5 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
