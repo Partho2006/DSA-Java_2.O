@@ -42,6 +42,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0088-merge-sorted-array) |
@@ -166,6 +167,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0206-reverse-linked-list) |
