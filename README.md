@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/Partho2006/DSA-Java_2.O/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
@@ -191,6 +193,7 @@
 | [0002-add-two-numbers](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0231-power-of-two) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
