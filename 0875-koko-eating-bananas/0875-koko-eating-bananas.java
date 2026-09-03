@@ -3,6 +3,7 @@ public class Solution {
         int left = 1;  
         int right = Arrays.stream(piles).max().getAsInt();
         int ans = right;
+
         while (left <= right) {
             int mid = left + (right - left) / 2;
             if (canFinish(piles, h, mid)) {
@@ -14,6 +15,7 @@ public class Solution {
         }
         return ans;
     }
+
     public boolean canFinish(int[] piles, int h, int k) {
         long hours = 0;
         for (int pile : piles) {
