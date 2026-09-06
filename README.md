@@ -66,6 +66,7 @@
 | [0136-single-number](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0645-set-mismatch) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Partho2006/DSA-Java_2.O/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
 | ------- |
