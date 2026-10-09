@@ -32,6 +32,7 @@
 | [0169-majority-element](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0704-binary-search) |
@@ -91,6 +92,7 @@
 | [0205-isomorphic-strings](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
@@ -153,6 +155,7 @@
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/Partho2006/DSA-Java_2.O/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Partho2006/DSA-Java_2.O/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -214,4 +217,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0003-longest-substring-without-repeating-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
