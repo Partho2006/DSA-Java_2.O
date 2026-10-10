@@ -33,6 +33,7 @@
 | [0189-rotate-array](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0704-binary-search) |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Partho2006/DSA-Java_2.O/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Partho2006/DSA-Java_2.O/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -221,4 +223,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
