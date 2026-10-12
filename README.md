@@ -37,6 +37,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Partho2006/DSA-Java_2.O/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -116,6 +117,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Partho2006/DSA-Java_2.O/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
@@ -158,6 +160,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/Partho2006/DSA-Java_2.O/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Partho2006/DSA-Java_2.O/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
