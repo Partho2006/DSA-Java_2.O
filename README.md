@@ -22,6 +22,7 @@
 | [0053-maximum-subarray](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0136-single-number) |
@@ -67,6 +68,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0645-set-mismatch) |
@@ -218,6 +220,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0078-subsets) |
 ## Sliding Window
 |  |
 | ------- |
