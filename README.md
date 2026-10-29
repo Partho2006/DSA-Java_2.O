@@ -50,6 +50,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0075-sort-colors) |
@@ -113,6 +114,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0152-maximum-product-subarray) |
@@ -145,6 +147,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0014-longest-common-prefix) |
@@ -230,4 +233,8 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0503-next-greater-element-ii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Partho2006/DSA-Java_2.O/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
